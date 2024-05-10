@@ -1,5 +1,5 @@
 
-gender_list = ['Male', 'Female', 'Other']
+gender_list = ['Male', 'Female']
 
 ever_married_list = ['Yes', 'No']
 
